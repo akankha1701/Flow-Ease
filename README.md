@@ -1,4 +1,4 @@
-# Flow Ease 
+# Flow-Ease
 ## OBJECTIVE:
 Flow Ease is an app which is made for women regarding Menstruation. 
 
